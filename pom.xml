@@ -105,7 +105,7 @@
 	      <id>nexus</id>
 	      <name>icici-Snapshot Nexus Repository</name>
 	      <url>http://54.169.202.99:8081/repository/icici-Snapshot/</url>
-	    </snapshotRepository>/
+	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
